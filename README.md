@@ -1,9 +1,15 @@
 ### FOR ACTUAL BUILD
 
-using tutorial: https://www.youtube.com/watch?v=G-Cr00UYokU
+TODO:
 
-09/08/2022 Timestamp: 48:33
+Mail Functionality
 
-09/10/2022 Timestamp: 1:46:08 - 'Experience Section is Technologies'
+Replace Some images
 
-09/10/2022 Timestamp: 2:59:03 - Use this for setting up contact form when actual email is tied in
+Edit p tags with content
+
+Upload projects
+
+Fix sizing bugs for mobile and image cutoff
+
+Nav bar issues
