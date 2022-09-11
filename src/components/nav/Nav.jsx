@@ -15,7 +15,7 @@ const Nav = () => {
     return (
         <div>
             <nav>
-                <a href="#header" className='active' onClick={()=>setActiveNav('#header')} className={activeNav === '#header' ? 'active' : ''}><GrHomeRounded/></a>
+                <a href="#" className='active' onClick={()=>setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><GrHomeRounded/></a>
                 <a href="#about" onClick={()=>setActiveNav('#about')} className={activeNav === '#about' ? 'active' : ''}><AiOutlineUser/></a>
                 <a href="#technologies" onClick={()=>setActiveNav('#technologies')} className={activeNav === '#technologies' ? 'active' : ''}><BiBook/></a>
                 <a href="#projects" onClick={()=>setActiveNav('#projects')} className={activeNav === '#projects' ? 'active' : ''}><AiOutlineFundProjectionScreen/></a>

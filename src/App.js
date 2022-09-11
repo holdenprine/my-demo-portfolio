@@ -12,8 +12,8 @@ function App() {
   return (
     
     <div className="App">
-      <header>
-        <div className= "scroll">
+      <html>
+      
         <Header />
         <Nav/>
         <About />
@@ -21,8 +21,7 @@ function App() {
         <Projects />
         <Contact />
         <Footer /> 
-      </div>
-      </header>
+      </html>
     </div>
     
   );
