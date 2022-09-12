@@ -12,7 +12,7 @@ function App() {
   return (
     
     <div className="App">
-      <html>
+      
         <Header />
         <Nav/>
         <About />
@@ -20,7 +20,7 @@ function App() {
         <Projects />
         <Contact />
         <Footer /> 
-      </html>
+      
     </div>
     
   );

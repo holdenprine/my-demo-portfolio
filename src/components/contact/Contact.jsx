@@ -24,7 +24,7 @@ const Contact = () => {
                             <BsLinkedin className="contact_option-icon"/>
                             <h4>Linkedin</h4>
                             <h5>Holden Prine</h5>
-                            <a href="https://www.linkedin.com/in/holdenprine/" target="_blank">Send a message</a>
+                            <a href="https://www.linkedin.com/in/holdenprine/" target="_blank" rel="norefferer">Send a message</a>
                         </article>
                     </div>
                     {/* END OF CONTACT OPTIONS */}
