@@ -49,7 +49,7 @@ const Projects = () => {
                         <h3>Wildlife Tracker</h3>
                         {/* insert project url here - Wildlife Tracker */}
                         <div className="project_item-cta">
-                            <a href="https://github.com/holdenprine" className="btn" target='_blank'>Github</a>
+                            <a href="https://github.com/holdenprine/wildlife-tracker-holdenprine" className="btn" target='_blank'>Github</a>
                             <a href="https://github.com/holdenprine" className="btn btn-primary" target='_blank'>Live Demo</a>
                         </div>
                 </article>
@@ -61,7 +61,7 @@ const Projects = () => {
                         <h3>Terminal Game</h3>
                         {/* insert project url here - Wildlife Tracker */}
                         <div className="project_item-cta">
-                            <a href="https://github.com/holdenprine" className="btn" target='_blank'>Github</a>
+                            <a href="https://github.com/sanjuel/ogre-the-moon" className="btn" target='_blank'>Github</a>
                             <a href="https://github.com/holdenprine" className="btn btn-primary" target='_blank'>Live Demo</a>
                         </div>
                 </article>
