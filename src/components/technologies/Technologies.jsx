@@ -4,20 +4,18 @@ import {DiCss3Full} from 'react-icons/di'
 import {SiJavascript} from 'react-icons/si'
 import {GrReactjs} from 'react-icons/gr'
 import {FaJava} from 'react-icons/fa'
-import {DiRuby} from 'react-icons/di'
 import {SiRubyonrails} from 'react-icons/si'
 import {AiOutlineConsoleSql} from 'react-icons/ai'
 import {DiPostgresql} from 'react-icons/di'
 import {MdHttp} from 'react-icons/md'
 import {SiMongodb} from 'react-icons/si'
 import {SiPostman} from 'react-icons/si'
+import {FaPhp} from 'react-icons/fa'
 import './technologies.css'
 
 const Technologies = () => {
     return (
         <div>
-            {/* TODO */}
-            {/* ADD ICONS for rails, HTML, Ruby, JavaScript, SQL, Java */}
             <section id='technologies'>
                 <h5>Languages/Tech Stacks</h5>
                 <h2>Tech/Frameworks</h2>
@@ -68,9 +66,9 @@ const Technologies = () => {
                             </article>
 
                             <article className="technologies_details">
-                                <DiRuby className='experience_details-icon'/>
+                                <FaPhp className='experience_details-icon'/>
                                 <div>
-                                    <h4>Ruby</h4>
+                                    <h4>php</h4>
                                     <small className='text-light'>Intermediate</small>
                                 </div>
                             </article>
@@ -78,7 +76,6 @@ const Technologies = () => {
                     </div>
                     <div className="technologies_backend">
                        <h3>Backend Development</h3>
-                       {/* Rails, SQL, PostgreSQL, REST, MongoDB, Postman */}
                        <div className="technologies_content">
                             <article className="technologies_details">
                                 <SiRubyonrails className='experience_details-icon'/>

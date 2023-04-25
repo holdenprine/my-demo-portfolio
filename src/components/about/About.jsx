@@ -15,7 +15,7 @@ const About = () => {
                 <div className='container about_container'>
                     <div className="about_me">
                         <div className="about_me-image">
-                            <img src={ME} alt="About Image" />
+                            <img src={ME} alt="About" />
                         </div>
                     </div>
                     <div className="about_content">
@@ -28,8 +28,8 @@ const About = () => {
 
                             <article className='about_card'>
                                 <TbUsers className='about_icon'/>
-                                <h5>Clients</h5>
-                                <small>LCS, etc.</small>
+                                <h5>Work Experience</h5>
+                                <small>Victorise, etc.</small>
                             </article>
 
                             <article className='about_card'>
@@ -39,7 +39,7 @@ const About = () => {
                             </article>
                         </div>
                         
-                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus neque eum iure natus sapiente esse accusamus, consequatur dignissimos dolorum? Dolore laborum modi obcaecati reiciendis officia facere assumenda a id ipsa?
+                           <p>My name is Holden Prine and I am a full stack developer. My work has been defined by my patience, detail-oriented and outside-the-box thinking. My background in technical problem solving and project management with several years experience in technical editing, web and mobile development. I am always looking to work with driven, hard working individuals to deliver high-quality, and intelligently architected products.
                            </p>
 
                         <a href="#contact" className='btn btn-primary'>Let's connect!</a>

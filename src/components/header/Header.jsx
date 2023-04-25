@@ -18,9 +18,9 @@ const Header = () => {
                <CTA/>
                <HeaderSocials/>
                 {/* Head Shot */}
-               <div class="me">
+               <div className="me">
                    {/* will be a temp image */}
-                <img src={ME} alt="me" />
+                <img src={ME} alt="me" style={{borderRadius: '6rem'}}/>
                </div>
 
                <a href="#contact" className='scroll_down'>Scroll Down</a>

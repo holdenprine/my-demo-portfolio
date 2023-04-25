@@ -16,15 +16,15 @@ const Contact = () => {
                         <article className="contact_option">
                             <AiOutlineMail className="contact_option-icon"/>
                             <h4>Email</h4>
-                            <h5>tempemail@gmail.com</h5>
-                            <a href="mailto:tempemail@gmail.com">Send a message</a>
+                            <h5>holdenprine404@gmail</h5>
+                            <a href="mailto:holdenprine404@gmail.com">Send a message</a>
                         </article>
 
                         <article className="contact_option">
                             <BsLinkedin className="contact_option-icon"/>
                             <h4>Linkedin</h4>
                             <h5>Holden Prine</h5>
-                            <a href="https://www.linkedin.com/in/holdenprine/" target="_blank">Send a message</a>
+                            <a href="https://www.linkedin.com/in/holdenprine/" target="_blank" rel='noreferrer'>Send a message</a>
                         </article>
                     </div>
                     {/* END OF CONTACT OPTIONS */}
